@@ -1,0 +1,14 @@
+header {
+    height: 60px;
+    display: flex;
+}
+header nav {
+    flex: 1;
+}
+main {
+    background-color: #ccc;
+    min-height: calc(100vh - 95px);
+}
+footer {
+    height: 35px;
+}
